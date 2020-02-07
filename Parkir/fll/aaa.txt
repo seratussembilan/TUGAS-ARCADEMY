@@ -1,0 +1,198 @@
+Institusi Pengelola Web dan Aspek Hukum dan Etika dalam Internet
+
+Macam-macam Institusi Pengelola Web baik yang ada di dunia ataupun di Indonesia
+
+Institusi Pengelola Web di Dunia	:
+
+1.       Advanced Research Project Agency Network (ARPANET)
+Adalah jaringan komputer yang dibuat oleh ARPA (Advanced Research Project Agency) dari Departemen Pertahanan Amerika Serikat pada tahun 1969. ARPANET difungsikan sebagai sarana percobaan teknologi jaringan komputer terbaru pada zamannya, seperti teknologi packet switching dan menjadi permulaan berdirinya Internet yang ada sekarang. Network Control Protocol (NCP) merupakan protokol jaringan standar pertama pada ARPANET. NCP disempurnakan dan diluncurkan pada Desember 1990 oleh Network Working Group (NWG), dipimpin sekaligus juga penemunya yaitu Steve Crocker .
+
+2.      World Wide Web Consortium (W3C)
+Awalnya dibentuk dari Laboratorium Ilmu Komputer MIT oleh Tim Berners-Lee dan Al-Vezza. W3C saat ini bertangggungjawab terhadap perkembangan dari berbagai protokol dan standar yang terkait dengan Web. Seperti misalnya standarisasi HTML, XML, XHTML dan CSS diatur oleh W3C. Saat ini W3C masih dipimpin oleh Berners-Lee. Website W3C dapat diakses pada URL:  http://www.w3c.org
+
+3.      Internet Engineering Task Force (IETF)
+Merupakan badan yang bertanggungjawab terhadap masalah teknis dari perkembangan teknologi internet. IETF bertugas mengkaji berbagai teknologi terkait untuk kemudian distandarkan menjadi sebuah request for comment (RFC). IETF fokus pada evolusi dari internet dan menjamin proses tersebut berjalan dengan smooth.
+
+4.      Internet Architecture Board (IAB)
+IAB bertanggung jawab dalam  mendefiniskan backbone internet.
+
+5.      Internet Society (ISOC)
+Dibentuk dari berbagai organisasi, pemerintahan, non-profit, komunitas, akademisi maupun para professional. Kelompok ini bertanggungjawab dalam membuat kebijakan tentang internet, dan memantau lembaga lain seperti IETF.
+
+6.      The Internet Assigned Authority (IANA) & Internet Network Information Center (InterNIC).
+Kelompok ini bertanggung jawab terhadap alokasi alamat IP  dan nama domain.
+
+7.      ICANN
+singkatan dari Internet Corporation for Assigned Names and Numbers, adalah organisasi nirlaba yang didirikan pada 18 September 1998 dan resmi berbadan hukum pada 30 September 1998. Organisasi yang berkantor pusat di Marina Del Rey, California ini ditujukan untuk mengawasi beberapa tugas yang terkait dengan Internet yang sebelumnya dilakukan langsung atas nama pemerintah Amerika Serikat oleh beberapa organisasi lain, terutama Internet Assigned Numbers Authority (IANA).
+
+Institusi Pengelola Web di Indonesia	:
+       APJII (Asosiasi Penyelenggara Jasa Internet Indonesia)
+       PANDI (Pengelola Nama Domain Internet Indonesia)
+Dua nama tersebut merupakan institusi yang mengatur pengelolaan internet untuk wilayah Indonesia.
+
+
+ASPEK HUKUM DAN ETIKA DALAM INTERNET
+Dalam dunia Teknologi Informasi (atau IT/Information Technology), masalah yang berhubungan dengan etika dan hukum bermunculan, mulai dari penipuan, pelanggaran, pembobolan informasi rahasia, persaingan curang sampai kejahatan yang sifatnya pidana sudah sering terjadi tanpa dapat diselesaikan secara memuaskan melalui hukum dan prosedur penyidikan yang ada saat ini.
+
+Undang-undang Hak Cipta dan Hak atas Kekayaan Intelektual (HaKI)
+
+Undang-undang hak cipta mengacu pada Undang-Undang Republik Indonesia Nomor 19 tahun 2002 : “Seseorang atau lembaga yang mendaftarkan hasil karyanya kepada lembaga yang berwenang akan mendapatkan perlindunga hukum”.
+
+ Dalam Undang-undang RI No 19 tahun 2002 tersebut dijelaskan bahwa:
+
+Hak cipta,  Pencipta,  Ciptaan,  Pemegang hak cipta,  Pengumuman,  Perbanyakan, Program komputer , dan Lisensi.
+
+Tindakan penggunaan teknologi informasi yang bertentangan dengan moral dan undang-undang yang berlaku dan banyak dibicarakan saat ini, antara lain:
+
+1. Hacking atau cracking
+
+Tindakan pembobolan data rahasia suatu institusi, membeli barang lewat internet dengan menggunakan nomor kartu kredit orang lain tanpa izin (carding) merupakan contoh-contoh dari tindakan hacking. Orang yang melakukan hacking disebut hacker. Begitu pula dengan membuka kode program tertentu atau membuat suatu proses agar beberapa tahap yang harus dilakukan menjadi terlewatkan (contoh: cracking serial number) apabila dilakukan tanpa izin juga merupakan tindakan yang menyalahi hukum.
+
+2. Pembajakan
+
+Mengutip atau menduplikasi suatu produk, misalkan program komputer, kemudian menggunakan dan menyebarkan tanpa izin atau lisensi dari pemegang hak cipta merupakan dalam posisi lemah akan dikenai sanksi dan konsekuensi sesuai hukum yang berlaku.
+
+3.  Browsing situs-situs yang tidak sesuai dengan moral dan etika kita
+
+Membuka situs dewasa bagi orang yang belum layak merupakan tindakan yang tidak sesuai dengan norma dan etika. Teknologi internet yang dapat memberikan informasi tanpa batas akan mengakibatkan tindakan yang beragam, mulai dari tindakan-tindakan positif sampai negatif. Orang yang tahu akan manfaat internet dan memanfaatkan secara positif akan mendapatkan hasil yang positif pula, dan begitu juga sebaliknya
+
+ 
+
+SUDUT PANDANG PEMERINTAH TERHADAP WEB
+
+Pada umumnya jika hal yang dikaitkan dengan pemerintahan merupakan hal-hal yang bersifat lebih memiliki nilai lebih yang tidak ingin untuk dimiliki oleh orang lain. Hal-hal tersebut adalah:
+
+Hukum Privasi
+
+
+Privasi merupakan salah satu unsur yang dilindungi dalam Hak Asasi Manusia. Privasi biasanya menyangkut sesuatu yang bersifat sangat pribadi atau hal yang sensitif. Konstitusi Indonesia tidak secara eksplisit mengatur mengenai perlindungan data didalam UUD 1945 (sama halnya juga dengan privasi). Dalam UUD 1945 ketentuan mengenai perlindungan data, secara implisit bisa ditemukan dalam pasal 28F dan 28G (1), mengenai kebebasan untuk menyimpan informasi dan perlindungan atas data dan informasi yang melekat kepadanya.
+
+Pasal 28F UUD RI 1945
+
+“Setiap orang berhak untuk berkomunikasi dan memperoleh informasi untuk mengembangkan pribadi dan lingkungan sosialnya, serta berhak untuk mencari, memperoleh, memiliki, menyimpan, mengolah dan menyampaikan informasi dengan menggunakan segala jenis saluran yang tersedia”.
+
+Pasal 28G Ayat (1) UUD RI 1945
+
+“Setiap orang berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat dan harta benda yang dibawah kekuasaannya, serta berhak atas rasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi”.
+
+Perlindungan data yang merupakan bagian dari cara untuk melindungi privasi, terkait erat dengan hak asasi manusia yang telah diatur dalam UU No. 39 Tahun 1999 (UU HAM). Sama halnya dengan UUD 1945, dalam UU HAM pun tidak menyatakan tegas ketentuan mengenai perlindungan data.
+
+ 
+
+HUKUM HAK CIPTA
+
+
+Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta (UUHC) melindungi secara otomatis tanpa harus mendaftar ke Direktorat Jenderal Hak Kekayaan Intelektual (Ditjen HKI) baik desain website maupun isi (konten) website, dari publikasi dan perbanyakan oleh pihak lain tanpa izin pemegang hak cipta.
+
+Elemen-elemen pada website yang dilindungi sebagai hak cipta:
+
+1. Sebuah website dapat memuat sejumlah hak kekayaan intelektual. Selain desain website dan konten website (dapat berupa teks atau tulisan, foto-foto, gambar-gambar, bahkan musik, video, database dan software) yang merupakan obyek perlindungan hak cipta, elemen lain yang sering dijumpai pada sebuah website adalah logo, nama usaha, brand atau nama produk atau jasa, simbol, slogan, nama domain dan fitur-fitur dengan teknologi web misalnya search engines, sistem online shopping dan sistem navigasi.
+
+2. Untuk logo, nama produk atau jasa (brand), icon-icon dan slogan, perlindungannya diatur oleh Undang-Undang No. 15 Tahun 2001 tentang Merek (UU Merek) apabila elemen-elemen tersebut memiliki daya pembeda dan digunakan dalam kegiatan perdagangan barang atau jasa (Pasal 1 ayat [1] UU Merek). Berbeda dengan hak cipta, hanya merek-merek yang terdaftar di Ditjen HKI yang memperoleh perlindungan hukum.
+
+3. Nama domain juga tidak termasuk obyek perlindungan hak cipta. Namun, nama domain dapat didaftarkan sebagai merek di Ditjen HKI. Pendaftaran nama domain sebagai merek setidaknya menghalangi pihak lain memakai dan mendaftarkan nama domain Anda sebagai merek di DItjen HKI bagi produk atau jasa yang sejenis dengan produk atau jasa yang tercantum dalam pendaftaran. Dalam memilih nama domain sebagai alamat website juga perlu memastikan bahwa nama domain tidak melanggar hak merek pihak lain. Jika terbukti adanya pelanggaran hak, maka pemilik website dapat kehilangan haknya atas nama domain yang bersangkutan akibat tuntutan hukum pemilik merek yang sah.
+
+ 
+
+CONTOH KASUS
+
+PT IDEA FIELD INDONESIA dengan MEDIANCE
+
+PT IDEA FIELD INDONESIA adalah perusahaan yang sedang berkembang dan bergerak dalam bidang desain grafis dan desain multimedia. Perusahaan ini menciptakan desain dengan isi dan konteks yang kuat, menciptakan produk-produk (desain) yang indah dan tiap kliennya di tangani dengan detail dan teliti. karya desain grafis PT IDEA FIELD INDONESIA bersifat dinamis dan dapat berubah-ubah mengikuti perkembang zaman. Perusahaan ini memasarkan dan memperdagangkan jasanya secara nasional dan internsional, melalui pemasaran secara langsung maupun melalui media internet agar karya desain grafisnya dikenal dan digunakan secara internasional.
+
+Melalui Elance PT IDEA FIELD INDONESIA memasarkan karya-karya desain grafisnya didunia maya (internet), dalam website ini PT IDEA FIELD INDONESIA dihubungkan dengan para pembeli karya desain grafis atau pembeli jasa untuk membuat desain grafis. Dalam website ini PT IDEA FIELD INDONESIA diharuskan me-upload katalog yang berisi karyakarya desain grafis, agar para pembeli bisa melihat hasil-hasil karya yang diciptakan oleh perusahaan.
+
+Pada tanggal 13 Juni 2008 PT. IDEA FIELD INDONESIA mendapatkan laporan dari Elance bahwa katalog berisi karya-karya desain grafis digunakan tanpa izin oleh pihak MEDIANCE dalam website Elance dan lambang the idea field diubah menjadi lambang MEDIANCE. Sehingga katalog tersebut berhasil menarik para pembeli jasa pembuat karya desain grafis untuk membeli karya dan jasa MEDIANCE, bahkan MEDIANCE berhasil menjual salah satu karya desain grafis dalam katalog tersebut.
+
+Pada tanggal 24 Juni 2008 PT. IDEA FIELD INDONESIA melakukan somasi pada MEDIANCE melalui e-mail yang berisikan, bahwa katalog tersebut dan semua karya deain grafis didalamnya adalah ciptaan PT.IDEA FIELD INDONESIA yang dilindungi oleh hak cipta, sehingga MEDIANCE harus menghentikan penggunaan katalog tersebut dan membayar sejumlah uang karena telah menjual salah satu karya desain grafis dalam katalog tersebut sebesar 500 US$ selambat-lambatnya pada tanggal 29 Juni 2008. Sampai pada tanggal 29 Juni 2008 tidak ada tanggapan dari MEDIANCE terhadap somasi PT IDEA FIELD INDONESIA. Kemudian PT IDEA FIELD INDONESIA meminta bantuan kepada Elance sebagai pihak yang menyediakan layanan untuk menyelesaikan masalah dengan pihak MEDIANCE. Sehingga pada tanggal 15 Juli 2008 tim Elance membentuk badan arbitrase Ad-Hoc untuk menyelesaikan permasalahan ini. Pihak PT IDEA FIELD INDONESIA memilih hakim arbiter dari Asosiasi Desain Grafis Internasional dan pihak MEDIANCE menyetujuinya.
+
+Hasil arbitrase pada tanggal 15 Agustus 2008 adalah pihak MEDIANCE akan menghentikan penggunaan katalog tersebut dalam website elance.com dan akan membayar uang sebesar 300 US$ atas penggunaan katalog dan perbanyakan karya desain grafis tersebut. Hasil putusan Arbitrase tersebut telah dilaksanakan oleh MEDIANCE. Tetapi uang sebesar 300 US$ harus rela dipotong sebesar 100 US$ untuk biaya arbitrase yang disediakan oleh Elance.
+
+ 
+KOMPONEN-KOMPONEN DALAM PENGELOLA WEB INSTITUSI
+
+          A. Domain Name
+  
+
+Domain Name Atau Biasa Disebut Nama Domain Adalah Alamat Permanen Situs Di Dunia Internet Yang Digunakan Untuk Mengidentifikasi Sebuah Situs Atau Dengan Kata Lain Domain Name Adalah Alamat Yang Digunakan Untuk Menemukan Situs Kita Pada Dunia Internet. Istilah Yang Umum Digunakan Adalah Url.
+                                                                                     
+Contoh Sebuah Url Adalah http://www.yahoo.com--dapat juga tanpa www—
+
+
+
+Ada Banyak Macam Nama Domain Yang Dapat Kita Pilih Sesuai Dengan Keinginan. Berikut Beberapa Nama Domain Yang Sering Digunakan Dan Tersedia Di Internet:
+
+1.       Generic Domains
+Merupakan Domain Name Yang Berakhiran Dengan .Com .Net .Org .Edu .Mil Atau .Gov. Jenis Domain Ini Sering Juga Disebut Top Level Domain Dan Domain Ini Tidak Berafiliasi Berdasarkan Negara, Sehingga Siapapun Dapat Mendaftar.
+
+Pengelola Nama Domain Internet Indonesia (disingkat PANDI) adalah sebuah badan hukum yang memiliki wewenang untuk mengatur pengelolaan domain .id. PANDI dibentuk oleh perwakilan dari komunitas teknologi informasi Indonesia dan mendapatkan persetujuan sebagai penerima mandat dari pengelola domain tingkat tinggi (dunia) ICANN (internet for Assigned Name and Number).PANDI dibentuk tanggal 29 Desember 2006 di Jakarta melalui dukungan Direktorat Jenderal Aplikasi Telematika, Departemen Komunikasi dan Informatika.
+
+.Com : Merupakan Top Level Domain Yang Ditujukan Untuk Kebutuhan "Commercial". 
+.Edu : Merupakan Domain Yang Ditujukan Untuk Kebutuhan Dunia Pendidikan (Education)
+.Gov : Merupakan Domain Untuk Pemerintahan (Government)
+.Mil : Merupakan Domain Untuk Kebutuhan Angkatan Bersenjata (Military) .Org : Domain Untuk Organisasi Atau Lembaga Non Profit (Organization).
+2.        Country-Specific Domains
+Yaitu Domain Yang Berkaitan Dengan Dua Huruf Ekstensi, Dan Sering Juga Disebut Second Level Domain, Seperti .Id(Indonesia), .Au(Australia), .Jp(Jepang) Dan Lain Lain. Domain Ini Dioperasikan Dan Di Daftarkan Dimasing Negara. Di Indonesia, Domain-Domain Ini Berakhiran, .Co.Id, .Ac.Id, .Go.Id, .Mil.Id, .Or.Id, Dan Pada Akhir-Akhir Ini Ditambah Dengan War.Net.Id, .Mil.Id, Dan Web.Id. Penggunaan Dari Masing-Masing Akhiran Tersebut Berbeda Tergantung Pengguna Dan Pengunaannya, Antara Lain:
+
+.Co.Id : Untuk Badan Usaha Yang Mempunyai Badan Hukum Sah
+.Ac.Id : Untuk Lembaga Pendidikan
+.Go.Id : Khusus Untuk Lembaga Pemerintahan Republik Indonesia
+.Mil.Id : Khusus Untuk Lembaga Militer Republik Indonesia
+.Or.Id : Untuk Segala Macam Organisasi Yand Tidak Termasuk Dalam Kategori "Ac.Id","Co.Id","Go.Id","Mil.Id" Dan Lain
+.War.Net.Id : Untuk Industri Warung Internet Di Indonesia
+.Sch.Id : Khusus Untuk Lembaga Pendidikan Yang Menyelenggarakan Pendidikan Seperti Sd, Smp Dan Atau Smu
+.Web.Id : Ditujukan Bagi Badan Usaha, Organisasi Ataupun Perseorangan Yang Melakukan Kegiatannya Di Worl Wide Web.
+
+Nama Domain Dari Tiap-Tiap Situs Di Seluruh Dunia Tidak Ada Yang Sama Sehingga Tidak Ada Satupun Situs Yang Akan Dijumpai Tertukar Nama Atau Tertukar Halaman Situsnya. Untuk Memperoleh Nama Dilakukan Penyewaan Domain, Biasanya Dalam Jangka Tertentu(Tahunan).
+
+         B. Hosting
+Hosting Dapat Diartikan Sebagai Ruangan Yang Terdapat Dalam Harddisk Tempat Menyimpan Berbagai Data, File-File, Gambar Dan Lain Sebagainya Yang Akan Ditampilkan Di Situs. Besarnya Data Yang Bisa Dimasukkan Tergantung Dari Besarnya Hosting Yang Disewa/Dipunyai, Semakin Besar Hosting Semakin Besar Pula Data Yang Dapat Dimasukkan Dan Ditampilkan Dalam Situs.
+
+Hosting Juga Diperoleh Dengan Menyewa. Besarnya Hosting Ditentukan Ruangan Harddisk Dengan Ukuran Mb(Mega Byte) Atau Gb(Giga Byte). Lama Penyewaan Hosting Rata-Rata Dihitung Per Tahun. Penyewaan Hosting Dilakukan Dari Perusahaan-Perusahaan Penyewa Web Hosting Yang Banyak Dijumpai Baik Di Indonesia Maupun Luar Negri.
+
+         C. Bahasa Program
+Adalah Bahasa Yang Digunakan Untuk Menerjemahkan Setiap Perintah Dalam Situs Yang Pada Saat Diakses. Jenis Scripts Sangat Menentukan Statis, Dinamis Atau Interaktifnya Sebuah Situs. Semakin Banyak Ragam Scripts Yang Digunakan Maka Akan Terlihat Situs Semakin Dinamis, Dan Interaktif Serta Terlihat Bagus. Bagusnya Situs Dapat Terlihat Dengan Tanggapan Pengunjung Serta Frekwensi Kunjungan.
+
+Beragam Scripts Saat Ini Telah Hadir Untuk Mendukung Kualitas Situs. Jenis Jenis Scripts Yang Banyak Dipakai Para Designer Antara Lain Html, Asp, Php, Jsp, Java Scripts, Java Applets Dsb. Bahasa Dasar Yang Dipakai Setiap Situs Adalah Html Sedangkan Asp Dan Lainnya Merupakan Bahasa Pendukung Yang Bertindak Sebagai Pengatur Dinamis, Dan Interaktifnya Situs.
+
+Scripts Asp, Php, Jsp Atau Lainnya Bisa Dibuat Sendiri, Bisa Juga Dibeli Dari Para Penjual Scripts Yang Biasanya Berada Di Luar Negri. Harga Scripts Rata-Rata Sangat Mahal Karena Sulitnya Membuat, Biasanya mencapai Puluhan Juta. Scripts Ini Biasanya Digunakan Untuk Membangun Portal Berita, Artikel, Forum Diskusi, Buku Tamu, Anggota Organisasi, Email, Mailing List Dan Lain Sebagainya Yang Memerlukan Update Setiap Saat.
+
+         D. Design Web
+Setelah Melakukan Penyewaan Domain Dan Hosting Serta Penguasaan Scripts, Unsur Situs Yang Paling Penting Dan Utama Adalah Design. Design Web Sangat Menentukan Kualitas Dan Keindahan Situs. Design Sangat Berpengaruh Kepada Penilaian Pengunjung Akan Bagus Tidaknya Sebuah Web Site.
+
+Untuk Membuat Situs Biasanya Dapat Dilakukan Sendiri Atau Menyewa Jasa Web Designer. Saat Ini Sangat Banyak Jasa Web Designer, Terutama Di Kota-Kota Besar. Perlu Diketahui Bahwa Kualitas Situs Sangat Ditentukan Oleh Kualitas Designer. Semakin Banyak Penguasaan Web Designer Tentang Beragam Program/Software Pendukung Pembuatan Situs Maka Akan Dihasilkan Situs Yang Semakin Berkualitas, Demikian Pula Sebaliknya. Jasa Web Designer Ini Yang Umumnya Memerlukan Biaya Yang Tertinggi Dari Seluruh Biaya Pembangunan Situs Dan Semuanya Itu Tergantung Kualitas Designer.
+
+         E. HYPERTEXT TRANSFER PROTOKOL (HTTP)
+Hypertext Transfer Protocol (HTTP), yang mana adalah suatu protokol yang digunakan oleh World Wide Web. HTTP mendefinisikan bagaimana suatu pesan bisa diformat dan dikirimkan dari server ke client. HTTP juga mengatur aksi-aksi apa saja yang harus dilakukan oleh web server dan juga web browser sebagai respon atas perintah-perintah yang ada pada protokol HTTP ini. Sebagai contoh, ketika Anda mengetikkan suatu alamat atau URL pada internet browser Anda, maka sebenarnya web browser akan mengirimkan perintah HTTP ke web server. Web server kemudian akan menerima perintah ini dan melakukan aktivitas sesuai dengan perintah yang diminta oleh web browser (misalnya akses ke database, file, e-mail dan lain sebagainya). Hasil aktivitas tadi akan dikirimkan kembali ke web browser untuk ditampilkan kepada pengguna. Sewaktu melakukan transfer, dokumen atau data webnya dengan menggunakan format HTML (hypertext transer protokol).. HTML sendiri adalah singkatan dari "hypertext markup language". Disebut dengan markup language karena HTML berfungsi untuk memperindah file tulisan (text) biasa untuk dapat dilihat pada web browser-web browser yang ada.
+
+         F. WORLD WIDE WEB (WWW)
+WWW adalah layanan yang paling sering digunakan dan memiliki perkembangan yang sangat cepat karena dengan layanan ini kita bisa menerima informasi dalam berbagai format (multimedia). Untuk mengakses layanan WWW dari sebuah komputer (yang disebut WWW server atau web server) digunakan program web client yang disebut web browser atau browser saja. Jenis-jenis browser yang sering digunakan adalah: Netscape Navigator/Comunicator, Internet Explorer, NCSA Mosaic, Arena, Lynx, dan lain-lain.
+
+Informasi-informasi yang terdapat di WWW dikemas dalam bentuk halaman- halaman web (web page). Sekumpulan halaman web milik seseorang atau suatu perusahaan dikumpulkan dan diletakkan dalam sebuah situs web (web site) sedangkan homepage adalah istilah untuk menyebut halaman pertama yang akan muncul jika sebuah situs web diakses. Setiap halaman dan situs dalam WWW memiliki alamat yang unik dan khas yang disebut sebagai URL (Universal Resource Locator). URL mempunyai bentuk dasar:
+protocol://hostname/[path/[filename]]
+
+Contoh URL salah satu situs web:
+http://tonz94.wordpress.com
+Di layer teratas protokol TCP/IP terdapat beberapa protokol untuk berbagai jenis layanan yang sering digunakan orang. Protokol-protokol tersebut antara lain adalah:
+1.       SMTP (Simple Mail Transport Protocol) untuk layanan E-Mail (Electronic Mail)
+2.       FTP (File Transfer Protocol)
+3.       IRC (Internet Relay Chat)
+4.        Telnet, dan yang paling terkenal:
+HTTP (HyperText Transfer Protocol) untuk layanan World Wide Web (WWW).
+
+         G. Publikasi
+Keberadaan Situs Tidak Ada Gunanya Dibangun Tanpa Dikunjungi Atau Dikenal Oleh Masyarakat Atau Pengunjung Internet. Karena Efektif Tidaknya Situs Sangat Tergantung Dari Besarnya Pengunjung Dan Komentar Yang Masuk. Untuk Mengenalkan Situs Kepada Masyarakat Memerlukan Apa Yang Disebut Publikasi Atau Promosi. Publikasi Situs Di Masyarakat Dapat Dilakukan Dengan Berbagai Cara Seperti Dengan Pamlet-Pamlet, Selebaran, Baliho Dan Lain Sebagainya Tapi Cara Ini Bisa Dikatakan Masih Kurang Efektif Dan Sangat Terbatas. Cara Yang Biasanya Dilakukan Dan Paling Efektif Dengan Tak Terbatas Ruang Atau Waktu Adalah Publikasi Langsung Di Internet Melalui Search Engine-Search Engine (Mesin Pencari, Spt : Yahoo, Google, Search Indonesia, Dsb)
+
+Cara Publikasi Di Search Engine Ada Yang Gratis Dan Ada Pula Yang Membayar. Yang Gratis Biasanya Terbatas Dan Cukup Lama Untuk Bisa Masuk Dan Dikenali Di Search Engine Terkenal Seperti Yahoo Atau Google. Cara Efektif Publikasi Adalah Dengan Membayar, Walaupun Harus Sedikit Mengeluarkan Akan Tetapi Situs Cepat Masuk Ke Search Engine Dan Dikenal Oleh Pengunjung.
+
+         H. Pemeliharaan
+Untuk Mendukung Kelanjutan Dari Situs Diperlukan Pemeliharaan Setiap Waktu Sesuai Yang Diinginkan Seperti Penambahan Informasi, Berita, Artikel, Link, Gambar Atau Lain Sebagainya. Tanpa Pemeliharaan Yang Baik Situs Akan Terkesan Membosankan Atau Monoton Juga Akan Segera Ditinggal Pengunjung.
+
+Pemeliharaan Situs Dapat Dilakukan Per Periode Tertentu Seperti Tiap Hari, Tiap Minggu Atau Tiap Bulan Sekali Secara Rutin Atau Secara periodik Saja Tergantung Kebutuhan (Tidak Rutin). Pemeliharaan Rutin Biasanya Dipakai Oleh Situs-Situs Berita, Penyedia Artikel, Organisasi Atau Lembaga Pemerintah. Sedangkan Pemeliharaan Periodik Biasanya Untuk Situs-Situs Pribadi, Penjualan/E-Commerce, Dan Lain Sebagainya.
+
+Sumber	:
+http://muhammadbayusyaifullah.blogspot.co.id/2015/04/institusi-pengelola-web-dan-aspek-hukum.html
+https://nabilahmaudiyanti28.wordpress.com/2017/05/13/institusi-pengelolaan-web-internet-termasuk-aspek-hukum-dan-etika/
+http://tayaa90.wordpress.com/2010/05/11/hukum-dan-peraturan-internet-di-berbagai-aspek/
+http://belajarintoday.blogspot.com/2013/03/pengelola-web-institusi-komponen.html
+id.wikipedia.org/wiki/Pengelola_Nama_Domain_Internet_Indonesia
